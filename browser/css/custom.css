@@ -174,8 +174,8 @@ ul.scroll-menu {
     color: #f5f5f5;
 }
 .navbar-default {
-    background-color: #ED9C06;
-    border-color: #000000;
+    background-color: #FFFFFF;
+    border-color: #428bca;
 }
 .navbar-default .navbar-toggle {
     background-color: #FFFFFF;
@@ -203,5 +203,5 @@ ul.scroll-menu {
 /** Links **/
 
 a{
-   color: #ED9C06;
+   color: #428bca;
  }
