@@ -2,9 +2,7 @@
     "menu":{
 	"scm": [
             "companies",
-            "companies-summary",
             "contributors",
-            "domains",
             "repos"
 	],
 	"qaforums": [
@@ -20,14 +18,11 @@
 	"its": [
             "companies",
             "contributors",
-            "domains",
-            "projects",
             "repos",
             "states"
 	],
 	"scr": [
             "companies",
-            "companies-summary",
             "projects",
             "repos"
 	]
